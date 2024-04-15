@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DragonPav
 - 👀 I’m interested in Java, Android, C++, CSS, HTML, JS, Python, LUA;
-- 📫 How to reach me: paveltrush289@gmail.com
