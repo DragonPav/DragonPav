@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DragonPav
-- 👀 I’m interested in Java, Android, C++, CSS, HTML, JS, Python, LUA;
+- 👀 I’m interested in Java, Android, C++, CSS, HTML, JS, Python, Lua;
